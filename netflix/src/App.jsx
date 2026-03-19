@@ -1,6 +1,7 @@
 import "./App.css";
 import Header from "./Component/Header/Header";
 import Second from "./Component/Second/Second";
+import Footer from './Component/Footer/Footer'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         </div>
       </main>
       <Second />
+      <Footer/>
     </>
   );
 }

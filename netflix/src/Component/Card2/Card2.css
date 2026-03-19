@@ -1,0 +1,20 @@
+.card2 {
+  width: 1300px;
+  height: 80px;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border: 2px;
+  justify-content: space-between;
+  background-color: #2d2d2d;
+}
+
+.card2-h1 {
+  font-size: 25px;
+  color: white;
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+  
